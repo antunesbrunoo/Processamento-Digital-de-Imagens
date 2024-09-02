@@ -1,0 +1,202 @@
+{
+    "apple\\0-01-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "apple\\0-01-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "apple\\0-01-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "apple\\0-01-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "banana\\0-02-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "banana\\0-02-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "banana\\0-02-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "banana\\0-02-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "grape\\0-03-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "grape\\0-03-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "grape\\0-03-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "grape\\0-03-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "guava\\0-04-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "guava\\0-04-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "guava\\0-04-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "guava\\0-04-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "lemon\\0-05-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "lemon\\0-05-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "lemon\\0-05-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "lemon\\0-05-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "mango\\0-06-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "mango\\0-06-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "mango\\0-06-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "mango\\0-06-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "melon\\0-07-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "melon\\0-07-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "melon\\0-07-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "melon\\0-07-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "orange\\0-08-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "orange\\0-08-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "orange\\0-08-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "orange\\0-08-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "papaya\\0-09-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "papaya\\0-09-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "papaya\\0-09-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "papaya\\0-09-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "pear\\0-10-V1-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "pear\\0-10-V1-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "pear\\0-10-V2-B.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    },
+    "pear\\0-10-V2-W.png.png": {
+        "width": 720,
+        "height": 1280,
+        "format": "PNG"
+    }
+}
