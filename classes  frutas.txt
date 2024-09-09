@@ -1,0 +1,11 @@
+ classes  frutas
+ 1	  apple
+ 2        banana
+ 3        grape
+ 4        guava
+ 5        lemon
+ 6        mango
+ 7        melon
+ 8        orange
+ 9        papaya
+ 10       pear
